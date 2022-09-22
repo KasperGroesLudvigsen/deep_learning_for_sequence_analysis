@@ -1,3 +1,5 @@
+ # "706 Deep learning for sequence analysis" coursework @ City, University of London
+
 # Follow these steps to reproduce my results:
 
 1. Open this link: https://1drv.ms/u/s!ApqC2EDsdE7tjL80dm7PHZx8w8Vtxw?e=apejim
