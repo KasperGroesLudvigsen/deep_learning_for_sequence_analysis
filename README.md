@@ -1,4 +1,6 @@
- # "706 Deep learning for sequence analysis" coursework @ City, University of London
+ # Predicting where to place commas in text
+ 
+ ## "706 Deep learning for sequence analysis" coursework @ City, University of London
 
 # Follow these steps to reproduce my results:
 
